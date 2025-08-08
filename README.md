@@ -1,9 +1,6 @@
 # StudyNotion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Dip6212/StudyNotion/main.yml?branch=main)]()
-[![npm version](https://img.shields.io/npm/v/react-tailwind-css-starter-pack)](https://www.npmjs.com/package/react-tailwind-css-starter-pack)
-
 <!-- TODO: Add a brief description about the project -->
 
 ## Table of Contents
