@@ -109,8 +109,8 @@ This project is open source and available under the MIT License. See the [LICENS
 
 ## Author/Acknowledgements
 
-Developed by Pranay Gupta.
+Developed by Dipan Mukherjee.
 
 ## Contact
 
-Your Name - projectlink - email@example.com
+Dipan Mukherjee - (https://study-notion-puce.vercel.app) - dipanmukherjee8482@gmail.com
